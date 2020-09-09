@@ -3,4 +3,4 @@
 def parrot(input="squak")
   puts input
 end
-parrot "Leah"
+parrot
