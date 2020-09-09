@@ -4,4 +4,4 @@ def parrot ("Squak")
   puts "Squak"
   return "Squak"
 end
-parrot
+parrot "Leah"
